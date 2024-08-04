@@ -25,8 +25,6 @@ This project aims to demonstrate the integration of Google's Generative AI and N
 
 ## Architecture
 
-![AI Learning Flowchart](./images/ai_learning_flowchart.png)
-
 The architecture of the project includes the following components:
 
 1. **Frontend**: A React-based web application that provides an interactive user interface for chatting with the AI and displaying game scenarios.
